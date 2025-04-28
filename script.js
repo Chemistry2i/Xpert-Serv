@@ -14,7 +14,7 @@ const Testimonials = [
         work:'Backend Dev',
         message:'I ve been coming here for years and have always been happy with the work. The prices are fair, and the mechanics are knowledgeable.The staff is always friendly and helpful, and they go the extra mile '
     },{
-        image:'img/testimonial-3.jpg',
+        image:'img/IMG-20250428-WA0005.jpg',
         Myname:'Omolo Pascal',
         work:'Frontend Dev',
         message:'I was impressed with the level of service I received. The mechanics were thorough and took the time to answer all my questions.This is my go-to garage for all my car needs. They are always quick'
@@ -26,7 +26,7 @@ const Testimonials = [
         message:'The service was excellent! They were friendly and helpful, and my car was fixed quickly and efficiently. They kept me informed every step of the way and explained everything clearly. I appreciate their honesty and integrity.'
         },
     {
-        image:'img/passport photo lab.jpg',
+        image:'img/Screenshot_20250214-115453~2.jpg',
         Myname:'Wambogo Hassan Sadat',
         work:'Fullstack Dev',
         message:'This is completely unbelieveable, I would be lost without Xpert Serv. Thank you for making it painless through out this journey with you They were friendly and helpful, and my car was fixed quickly and efficiently'
