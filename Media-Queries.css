@@ -121,7 +121,7 @@
     .Home001 h3{
         font-size: 15px;
         text-align: left;
-        color: var(--main-color);
+        color: var(--secondary-color);
         /* margin-top: 10px; */
         /* text-align: center; */
     }
