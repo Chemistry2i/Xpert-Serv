@@ -742,7 +742,7 @@ textarea::placeholder{
 /* s.split{} */
 
 .socioIcons{
-    opacity: 0;
+    opacity: 100%;
     
     /* background-color: yellow; */
 }
