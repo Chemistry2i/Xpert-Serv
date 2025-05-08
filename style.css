@@ -829,6 +829,11 @@ textarea::placeholder{
     z-index: 1;
 }
 
+
+.Tech .Tech001:nth-child(2){
+    display: none;
+}
+
 .Tech001 p{
     color: var(--primary-color);
     z-index: 1;

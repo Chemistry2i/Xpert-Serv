@@ -734,6 +734,11 @@ textarea::placeholder{
 }
 
 
+.Tech .Tech001:nth-child(2){
+    display: block;
+}
+
+
 .techimg img{
     width: 100%;
     height: 100%;
