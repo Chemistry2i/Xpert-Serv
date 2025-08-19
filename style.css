@@ -77,7 +77,7 @@ body{
     background-color: var(--main-color);
     color: var(--secondary-color);
     font-size: 0.7em;
-    padding: 20px 10px;
+    padding: 20px 50px;
 }
 
 
@@ -88,15 +88,23 @@ body{
 
 .socials{
     display: flex;
-    gap: 10px;
+    gap: 0px;
+}
+
+.fa-facebook,
+.fa-twitter,
+.fa-whatsapp,
+.fa-square-instagram,
+.fa-github {
+    font-size: 25px;
 }
 
 .socials span{
     width: 35px;
     height: 35px;
     background-color: transparent;
-    border: 2px solid var(--secondary-color);
-    border-radius: 50%;
+    /* border: 2px solid var(--secondary-color); */
+    /* border-radius: 50%; */
     display: grid;
     place-items: center;
 }
